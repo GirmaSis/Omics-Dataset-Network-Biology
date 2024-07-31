@@ -6,5 +6,4 @@
 
 # Ignore a specific file
 data/GSE12345_family.soft.gz
-
-
+data/GSE12345_family.soft
